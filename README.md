@@ -1,1 +1,1 @@
-# Apply-machine-learning-models-on-datasets
+In this lab we aim to analyze two datasets heart_disease and car_sales with python (sklearn, pandas, matplotli, numpy,...) and machine learning models (LinearSVC, LogisticRegression, RandomizedSearchCV,...)
